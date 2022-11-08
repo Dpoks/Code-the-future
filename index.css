@@ -142,6 +142,7 @@ body {
 .container {
   width: 100%;
   padding: 40px;
+  background-color: #fdf2e9;
 }
 .mailing-list {
   width: 50%;

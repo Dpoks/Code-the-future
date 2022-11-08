@@ -1,0 +1,23 @@
+* {
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    font-family: 'Rubik', 'Arial', sans-serif;
+  }
+  body {
+    background-color: #fdf2e9;
+    color: black;
+  } 
+.container {
+  width: 100%;
+  padding: 40px;
+}
+.mailing-list {
+  width: 50%;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  padding: 20px;
+  border-style: outset;
+  border-radius: 13px;
+  border-color: #191919;
+}
+.mailing-list h2 {
+  margin-top: 0;

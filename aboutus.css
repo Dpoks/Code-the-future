@@ -1,0 +1,32 @@
+* About me page.css */
+* {
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    font-family: 'Rubik', 'Arial', sans-serif;
+  }
+body {
+ background-color: #fdf2e9;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+  header {
+    text-align: center;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 1.05;
+    color: #333;
+    letter-spacing: -0.5;
+    margin-bottom: 32px;
+  }
+
+.First-paragraph {
+
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 1.05;
+    color: #333;
+    letter-spacing: -0.5;
+    margin-bottom: 32px;
+
+}
