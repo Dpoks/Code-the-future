@@ -168,3 +168,30 @@ body {
 .img-wrapper {
     padding:30px;
 }
+
+.First-paragraph {
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 1.05;
+    color: #333;
+    letter-spacing: -0.5;
+    margin-bottom: 32px;
+
+}
+.container {
+    width: 100%;
+    padding: 40px;
+    background-color: #fdf2e9;
+  }
+  .mailing-list {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-style: outset;
+    border-radius: 13px;
+    border-color: #191919;
+  }
+  .mailing-list h2 {
+    margin-top: 0;
+  }
